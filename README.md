@@ -1,6 +1,6 @@
-### Hi there 👋
+### studying java
 
-<div align="center" dir="auto">
+<div align="left" dir="auto">
 <p dir="auto"><a href="https://solved.ac/profile/kingjh120" rel="nofollow"><img src="http://mazassumnida.wtf/api/generate_badge?boj=kingjh120" alt="Solved.ac Profile" data-canonical-src="http://mazassumnida.wtf/api/generate_badge?boj=kingjh120" style="max-width: 100%;"></a></p>
 </div>
 
