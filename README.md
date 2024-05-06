@@ -2,6 +2,9 @@
 - like reading book
 - want to be backend-dev
 - studying java recently
+- @leagueoflegend/도구와편견#2103
+
+  
 - yes...
 
 <div align="left" dir="auto">
