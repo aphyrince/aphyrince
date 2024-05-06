@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<div align="center" dir="auto">
+<p dir="auto"><a href="https://solved.ac/profile/kingjh120" rel="nofollow"><img src="http://mazassumnida.wtf/api/generate_badge?boj=kingjh120" alt="Solved.ac Profile" data-canonical-src="http://mazassumnida.wtf/api/generate_badge?boj=kingjh120" style="max-width: 100%;"></a></p>
+</div>
+
 <!--
 **aphyrince/aphyrince** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
