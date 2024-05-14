@@ -1,3 +1,8 @@
+# language
+<p align="left">
+  <!-- Badges go here>
+https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java3.svg
+</p>
 # About Me
 - like reading book
 - want to be backend-dev
