@@ -3,14 +3,13 @@
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java3.svg">
   <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql1.svg">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github1.svg">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css1.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c1.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs1.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Express/express1.svg">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c1.svg">
 </p>
 
 # About Me
