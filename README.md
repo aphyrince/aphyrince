@@ -1,11 +1,7 @@
 <p align="left">
-  <h3>portfolio</h3>
-
-<a>aphyrince.github.io</a>
-##########
-
-  <h3>tech stack</h3>
-
+[_portfolio_](https://aphyrince.github.io)
+-----------------------------------
+<h3>tech stack</h3>
 
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)  <br>
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) <br>
