@@ -1,6 +1,5 @@
 <p align="left">
-[_portfolio_](https://aphyrince.github.io)
------------------------------------
+[portfolio](https://aphyrince.github.io)
 <h3>tech stack</h3>
 
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)  <br>
