@@ -1,24 +1,9 @@
 <p align="left">
-  tech stack<br>
+  <h3>tech stack</h3><br>
   
-  ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-<img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-  <ul>
-    <li>
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java3.svg">
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg">
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c1.svg">
-    </li>
-    <li>
-      <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs1.svg">
-    </li>
-    <li>
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql1.svg">
-      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg">
-    </li>
-  </ul>
+    ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) <br>
+    <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">  <br>
+    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 </p>
 
 
