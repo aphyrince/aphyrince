@@ -1,7 +1,7 @@
 <p align="left">
   <h3>portfolio</h3>
 
-<a>aphyrince.github.io</>
+<a>aphyrince.github.io</a>
 ##########
 
   <h3>tech stack</h3>
