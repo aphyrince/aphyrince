@@ -1,6 +1,6 @@
 💻[_portfolio_](https://aphyrince.github.io "포트폴리오 보러가기")
 
-<h3>tech stack</h3>
+<h1>Tech stack</h1>
 
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)  <br>
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) <br>
@@ -9,8 +9,7 @@
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)<br>
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) <br>
 
-<h3>Language</h3>
-
+<h1>Language</h1>
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -22,7 +21,7 @@
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 </p>
 
-<h3>Solved.ac</h3>
+<h2>Solved.ac</h2>
 
 <div align="left" dir="auto">
 <p dir="auto"><a href="https://solved.ac/profile/kingjh120" rel="nofollow"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kingjh120" alt="Solved.ac Profile"  style="max-width: 100%;"></a></p>
