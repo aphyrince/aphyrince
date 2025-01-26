@@ -1,4 +1,3 @@
-💻[_portfolio_](https://aphyrince.github.io "포트폴리오 보러가기")
 
 <h1>Tech stack</h1>
 
