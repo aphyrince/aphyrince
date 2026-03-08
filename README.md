@@ -26,9 +26,7 @@
 
 <h2>Solved.ac</h2>
 
-<div align="left" dir="auto">
-<p dir="auto"><a href="https://solved.ac/profile/kingjh120" rel="nofollow"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kingjh120" alt="Solved.ac Profile"  style="max-width: 100%;"></a></p>
-</div>
+[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=kingjh120)](https://solved.ac/kingjh120)
 
 
 <h2>Roadmap.sh</h2>
