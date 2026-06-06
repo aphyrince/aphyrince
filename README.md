@@ -28,10 +28,6 @@
 
 [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=kingjh120)](https://solved.ac/kingjh120)
 
-
-<h2>Roadmap.sh</h2>
-
-[![roadmap.sh](https://roadmap.sh/card/tall/69a7e0a2fe12cd319d7d6c31?variant=dark)](https://roadmap.sh)
 <!--
 **aphyrince/aphyrince** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
