@@ -1,6 +1,5 @@
 삶은 누적이다.
-
-
+---
 <h1>Tech stack</h1>
 
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=Spring&logoColor=white) 
